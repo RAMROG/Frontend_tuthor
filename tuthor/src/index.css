@@ -11,3 +11,60 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.nav-landing {
+  background-color: #252B42 !important;
+}
+
+.nav-content{
+  margin-left: 10rem !important;
+
+}
+
+.dim-container-fluid {
+  width: 100% !important;
+}
+
+.position-nav {
+  margin-left: auto !important;
+}
+
+.btn-nav-logup {
+  width: 150px;
+  height: 40px;
+}
+
+.logup {
+  width: 150px;
+}
+.body-landing {
+  height: 100vh;
+  width:100%;
+  margin:0;
+  padding:0;
+  background-position:50% 50%;
+  background-size:cover;
+  background-color: #252B42 !important;
+}
+.landin-text {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25%;
+}
+
+.landin-header-text {
+  color: #23A6F0 !important;
+}
+
+.landing-body-text {
+  color: white;
+}
+
+.landin-footer-text {
+  color: #757575;
+}
+.img-student{
+  width:540px;
+  height:633px;
+}
